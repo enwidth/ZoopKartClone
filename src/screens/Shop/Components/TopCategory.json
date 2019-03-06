@@ -1,0 +1,47 @@
+[
+  {
+    "categoryName": "Today",
+    "items": [
+      {
+        "title": "Deals & Promotions",
+        "subtitle": "All our best offers",
+        "image": "Deals"
+      },
+      {
+        "title": "Pantry & Household",
+        "subtitle": "Everyday must haves",
+        "image": "Pantry"
+      },
+      {
+        "title": "Speakers & Voice Assistants",
+        "subtitle": "Got a doubt, just ask !",
+        "image": "Speaker"
+      },
+      {
+        "title": "Sports &  Fitness",
+        "subtitle": "Get Active",
+        "image": "Sports"
+      }
+    ]
+  },
+  {
+    "categoryName": "Beauty",
+    "items": [
+      {
+        "title": "Skin Care & Makeup",
+        "subtitle": "get a glowing skin",
+        "image": "Makeup"
+      },
+      {
+        "title": "Hair & Body",
+        "subtitle": "Bye bye dandruff",
+        "image": "Hair"
+      },
+      {
+        "title": "Fragrance & Perfumes",
+        "subtitle": "Find your magic",
+        "image": "Fragrance"
+      }
+    ]
+  }
+]

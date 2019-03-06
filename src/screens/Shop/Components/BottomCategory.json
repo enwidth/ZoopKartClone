@@ -1,0 +1,147 @@
+[
+  {
+    "categoryName": "Electronics",
+    "items": [
+      {
+        "title": "Headphones & Earphones",
+        "subtitle": "Wanna listen to a new album..we got you covered",
+        "image": "Earphone",
+        "offer": "Upto 50% off"
+      },
+      {
+        "title": "Speakers & Voice Assistants",
+        "subtitle": "Got a doubt, just ask !",
+        "image": "Speaker",
+        "offer": "Flat 50% off"
+      },
+      {
+        "title": "Wearable",
+        "subtitle": "Perfect for gifts",
+        "image": "Earphone",
+        "offer": "Upto 60% off"
+      },
+      {
+        "title": "Television",
+        "subtitle": "Entertain yourself",
+        "image": "Speaker",
+        "offer": "No offers"
+      },
+      {
+        "title": "Smart Home",
+        "subtitle": "Let me do this",
+        "image": "Earphone",
+        "offer": " 25% off"
+      },
+      {
+        "title": "Camera",
+        "subtitle": "Let's make this moment",
+        "image": "Speaker",
+        "offer": "Click a Offers"
+      },
+      {
+        "title": "Gaming",
+        "subtitle": "Perfect for gifts",
+        "image": "Earphone",
+        "offer": "Exciting offers"
+      },
+      {
+        "title": "Mobile",
+        "subtitle": "always new",
+        "image": "Speaker",
+        "offer": "20% off",
+        "item": [
+          {
+            "deal": "deal",
+            "name": "Google Pixel",
+            "des": "Our Coolest Phone",
+            "rating": "rate",
+            "previousPrice": "$399.99",
+            "currentPrice": "$239.99",
+            "off": "40% off",
+            "image": "MobileOne"
+          },
+          {
+            "deal": "deal",
+            "name": "iPhone X",
+            "des": "Brand is everything , Everything is Brand",
+            "rating": "rate",
+            "previousPrice": "$699.99",
+            "currentPrice": "$539.99",
+            "off": "40% off",
+            "image": "MobileTwo"
+          },
+          {
+            "name": "Samsung Galaxy",
+            "rating": "rate",
+            "des": " Now a days , We innovate",
+            "previousPrice": "$699.99",
+            "currentPrice": "$539.99",
+            "off": "40% off",
+            "image": "MobileThree"
+          },
+          {
+            "deal": "deal",
+            "name": "Google Pixel",
+            "des": "Our coolest Phone",
+            "rating": "rate",
+            "previousPrice": "$399.99",
+            "currentPrice": "$239.99",
+            "off": "40% off",
+            "image": "MobileOne"
+          },
+          {
+            "deal": "deal",
+            "name": "iPhone X",
+            "des": "Brand is everything , Everything is Brand",
+            "rating": "rate",
+            "previousPrice": "$699.99",
+            "currentPrice": "$539.99",
+            "off": "40% off",
+            "image": "MobileTwo"
+          },
+          {
+            "name": "Samsung Galaxy",
+            "rating": "rate",
+            "des": "Now a days , We innovate",
+            "previousPrice": "$699.99",
+            "currentPrice": "$539.99",
+            "off": "40% off",
+            "image": "MobileThree"
+          }
+        ]
+      },
+      {
+        "title": "Laptop",
+        "subtitle": "do  sommething creative",
+        "image": "Earphone",
+        "offer": "Exciting offers fro students"
+      },
+      {
+        "title": "Tablets",
+        "subtitle": "have comfort",
+        "image": "Speaker",
+        "offer": "Upto 35% off"
+      }
+    ]
+  },
+  {
+    "categoryName": "Footwear",
+    "items": [
+      {
+        "title": "Trekking & Rough Terrain",
+        "subtitle": "All Terrain",
+        "image": "Trekking"
+      },
+      {
+        "title": "Sports & Fitness",
+        "subtitle": "Get Active",
+        "image": "Sports"
+      },
+      {
+        "title": "Leather & Formal",
+        "subtitle": "press yourself",
+        "image": "Formal"
+      }
+    ]
+  }
+]
